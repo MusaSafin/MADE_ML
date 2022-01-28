@@ -1,2 +1,2 @@
-# MADE_ML
+# Machine_learning_course
 "MADE" machine learning course assignments
