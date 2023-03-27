@@ -1,4 +1,3 @@
-# Machine_learning_course
-"MADE" machine learning course assignments
+# Machine Learning course notebooks (MADE Big Data Academy)
 
-Solved homework and lab work in the homeworks folder
+Homework solutions in the `homeworks` folder.
